@@ -1,6 +1,6 @@
 # Proyecto-Sembrios <br> 
 Este proyecto nos ayudará a automatizar un proceso de sembríos utilizando IoT y programación web (Frontend y Backend). <br> 
-Integrantes del Equipo: <br> 
++Integrantes del Equipo: <br> 
 -Isabel Granja <br> 
 -Francisco Ulloa <br> 
 -Alexei Ramos (Scrum Master) <br> 
