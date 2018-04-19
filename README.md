@@ -7,4 +7,4 @@ Este proyecto nos ayudará a automatizar un proceso de sembríos utilizando IoT 
 -José Antonio Salgado <br> 
 +Datos del Proyecto: <br> 
 +- [Planificación](https://docs.google.com/spreadsheets/d/1-cddvoDSyw2I8XNYn8ZqQmWVjBg3Su0xzEq4x_GCdgo/edit?usp=sharing) del proyecto. <br> 
-+- [Scrum Board]() del proyecto. <br> 
++- [Scrum Board](https://trello.com/b/MAGQY9RX/metodolog%C3%ADa) del proyecto. <br> 
