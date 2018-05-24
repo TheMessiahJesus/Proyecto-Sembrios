@@ -1,0 +1,10 @@
+cd carpeta
+npm init --yes
+
+package.json
+"scripts": {
+  "start": "node server/index.js"
+},
+
+npm install serialport express socket.io
+npm start
